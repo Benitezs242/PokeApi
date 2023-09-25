@@ -137,7 +137,7 @@ function CrearPokemon(Pokemon) {
                     ${Habilidad1}
                     </button>
                     <ul class="dropdown-menu Habil">
-
+                       
                     </ul>
                 </div>
                 </li>
