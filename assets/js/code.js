@@ -111,7 +111,6 @@ function CrearPokemon(Pokemon) {
                     let detallesHabilidades = document.querySelector(".Habil")
                     detallesHabilidades.innerHTML += `
                     <li><a class="dropdown-item" href="#">${detalleHabilidad}</a></li>
-
                     `
 
                     })
@@ -137,7 +136,6 @@ function CrearPokemon(Pokemon) {
                     ${Habilidad1}
                     </button>
                     <ul class="dropdown-menu Habil">
-                       
                     </ul>
                 </div>
                 </li>
