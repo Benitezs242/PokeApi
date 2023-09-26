@@ -38,7 +38,7 @@ function busqueda(busquedas = "https://pokeapi.co/api/v2/pokemon/") {
                     <button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
                     ${HabilidadBusqueda1}
                     </button>
-                    <ul class="dropdown-menu">
+                    <ul class="dropdown-menu Habil">
                         <li><a class="dropdown-item" href="#">${detalleHabilidad}</a></li>
                     </ul>
                 </div>
